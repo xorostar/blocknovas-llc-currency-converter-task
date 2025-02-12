@@ -5,7 +5,7 @@ I implemented a currency conversion feature that includes both API endpoints and
 
 ## Demo
 Watch a demo of the functionality here:
-[![Currency Converter Demo](https://cdn.loom.com/sessions/thumbnails/529911ae989d42f29f15fd70d2eb898d-with-play.gif)](https://www.loom.com/share/529911ae989d42f29f15fd70d2eb898d)
+[Currency Converter Demo](https://www.loom.com/share/529911ae989d42f29f15fd70d2eb898d)
 
 ## Implementation Details
 
