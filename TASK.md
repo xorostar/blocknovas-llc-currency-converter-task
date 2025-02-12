@@ -3,6 +3,10 @@
 ## Overview
 I implemented a currency conversion feature that includes both API endpoints and a functional front-end component. The solution integrates with a third-party service (currencyapi.com) to provide real-time exchange rates and currency conversions.
 
+## Demo
+Watch a demo of the functionality here:
+[![Currency Converter Demo](https://cdn.loom.com/sessions/thumbnails/529911ae989d42f29f15fd70d2eb898d-with-play.gif)](https://www.loom.com/share/529911ae989d42f29f15fd70d2eb898d)
+
 ## Implementation Details
 
 ### Backend Development
