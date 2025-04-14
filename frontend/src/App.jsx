@@ -1,9 +1,8 @@
-import React, { useContext } from 'react';
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './components/pages/home';
 import Staking from './components/pages/staking';
-import { getDefaultConfig, RainbowKitProvider, midnightTheme, RainbowKitAuthenticationProvider } from '@rainbow-me/rainbowkit';
+import { getDefaultConfig, RainbowKitProvider, midnightTheme } from '@rainbow-me/rainbowkit';
 import { WagmiProvider } from 'wagmi';
 import { arbitrum, base, mainnet, optimism, polygon, sepolia } from 'wagmi/chains';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';

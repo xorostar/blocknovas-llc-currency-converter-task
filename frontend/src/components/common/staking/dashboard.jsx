@@ -1,5 +1,6 @@
 import Stake from "./stake";
 import HistoryView from "./historyView";
+import CurrencyConverter from "./currencyConverter";
 import ConnectWallet from "../buttons/connect_wallet";
 
 const stakes = [
@@ -43,6 +44,7 @@ function Dashboard() {
           ))}
         </div>
       </div>
+      <CurrencyConverter />
       <HistoryView />
     </div>
   );
